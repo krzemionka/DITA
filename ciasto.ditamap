@@ -3,5 +3,6 @@
 <map>
     <title>Ciasto Marchewkowe</title>
     <topicref href="ciasto_marchewkowe.dita"/>
+    <topicref href="skladniki.dita"/>
     <topicref href="przepis.dita"/>
 </map>

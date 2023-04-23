@@ -35,10 +35,15 @@
                                     <div class="- map/shortdesc shortdesc" css:display="none"/>
                                 </div>
                             </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="skladniki.dita" is-chapter="true">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="">
+                                    <div appid="" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                </div>
+                            </div>
                             <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_2" is-chapter="true" type="task">
                                 <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="przepis">
                                     <div appid="przepis" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
-                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="2"/><css:text/><css:text>. </css:text></css:before>Przepis<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>Przepis<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
                                     <div class="- map/shortdesc shortdesc" css:display="none"/>
                                 </div>
                             </div>
