@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="hello_world">
-    <title>HELLO WORLD</title>
+<concept id="ciasto_marchewkowe">
+    <title>ciasto marchewkowe</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>TEST</p>
+        <p>Przepis na doskonałe ciasto marchewkowe z kremową polewą.</p>
     </conbody>
 </concept>
