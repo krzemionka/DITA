@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Ciasto Marchewkowe</title>
+    <topicref href="ciasto_marchewkowe.dita"/>
+    <topicref href="skladniki.dita"/>
+    <topicref href="przepis.dita"/>
+</map>
