@@ -7,5 +7,7 @@
     <projectTree name="dita%20exercise.xpr">
         <folder path="."/>
         <file name="../../ciasto_marchewkowe.dita"/>
+        <file name="../../przepis.dita"/>
+        <file name="../../skladniki.dita"/>
     </projectTree>
 </project>
