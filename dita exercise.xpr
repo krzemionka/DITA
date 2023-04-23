@@ -6,5 +6,6 @@
     </meta>
     <projectTree name="dita%20exercise.xpr">
         <folder path="."/>
+        <file name="../../ciasto_marchewkowe.dita"/>
     </projectTree>
 </project>
